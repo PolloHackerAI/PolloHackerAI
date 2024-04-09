@@ -1,7 +1,7 @@
 /*
 ** Nome: Michael
 ** Cognome: Tranchino
-** Gruppo: Tranchino-Vitali
+** Gruppo: Tranchino
 ** Data: 11/01/2024
 */
 
