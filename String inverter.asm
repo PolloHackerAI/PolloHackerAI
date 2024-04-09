@@ -1,3 +1,7 @@
+;Nome: Michael 
+;Cognome: Tranchino
+
+
 data segment
     
 ends
