@@ -1,0 +1,7 @@
+#ifndef RESOURCES_H
+#define RESOURCES_H
+
+#define IDD_ADDTASK 101
+#define IDC_TASKDESCRIPTION 1001
+
+#endif // RESOURCES_H
